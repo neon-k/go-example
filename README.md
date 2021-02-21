@@ -30,8 +30,6 @@
 
 ## Reference
 
-参考にさせて頂いたリファレンスです。
-
 - [https://gorm.io/ja_JP/docs/conventions.html](https://gorm.io/ja_JP/docs/conventions.html)
 - [https://qiita.com/Syoitu/items/8e7e3215fb7ac9dabc3a](https://qiita.com/Syoitu/items/8e7e3215fb7ac9dabc3a)
 - [https://github.com/appleboy/gin-jwt](https://github.com/appleboy/gin-jwt)
