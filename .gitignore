@@ -11,3 +11,4 @@ db/data/*
 /app
 /tmp
 /db/data
+/data_secret.json

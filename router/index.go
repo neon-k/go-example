@@ -80,7 +80,7 @@ func StartRouter() *gin.Engine {
 			v1.GET("/example", todoHandler.Index)
 
 			// example
-			v1.GET("/firestore", handler.firestore)
+			v1.GET("/firestore", handler.Firestore)
 
 			// jwt
 			v1.POST("/login", jwtHandler.AuthMiddleware().LoginHandler)

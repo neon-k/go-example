@@ -7,6 +7,7 @@
 - DDDアーキテクチャーの使い方確認
 - AWSのs3に画像（base64）のアップロード方法
 - JWTを使ってトークン認証実装
+- Firestoreの使い方確認
 
 ## Library
 
@@ -20,6 +21,7 @@
 | [mysql](https://www.mysql.com/jp/)                  | DB                                 |
 | [swagger](https://swagger.io/)                      | API仕様書                                   |
 | [gin-jwt](https://github.com/appleboy/gin-jwt)      | JWT認証      |
+| [firestore](https://firebase.google.com/docs/firestore/quickstart?hl=ja)      | No SQL      |
 
 ## Impressions
 
@@ -35,3 +37,5 @@
 - [https://github.com/appleboy/gin-jwt](https://github.com/appleboy/gin-jwt)
 - [https://qiita.com/Bmouthf/items/d2d6ef55e131cb5a9e82](https://qiita.com/Bmouthf/items/d2d6ef55e131cb5a9e82)
 - [http://golang-jp.org/](http://golang-jp.org/)
+- [https://qiita.com/manymanyuni/items/37afe282d151eb2aa34a](https://qiita.com/manymanyuni/items/37afe282d151eb2aa34a)
+- [https://qiita.com/ttyokoyama/items/f1c22dfc83133cfeb3a8](https://qiita.com/ttyokoyama/items/f1c22dfc83133cfeb3a8)

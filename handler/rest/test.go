@@ -15,7 +15,7 @@ import (
 // @accept application/x-json-stream
 // @Success 200 {object} gin.H {"status": "success"}
 // @router /api/v1/firestore [get]
-func Test(c *gin.Context) {
+func Firestore(c *gin.Context) {
 	err := util.AddFirestore("test", map[string]interface{}{
 		"first": "ばかだねーーーーーーーお前",
 		"last":  "Lovelace",
