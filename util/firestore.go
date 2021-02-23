@@ -42,7 +42,7 @@ func initFiirestore() (*firestore.Client, error) {
 }
 
 // firestoreにデータを追加
-func AddFirestore(doc string, data map[string]interface{}) error {
+func AddFirestore(doc string, data interface{}) error {
 	ctx := context.Background()
 
 	// 初期設定
