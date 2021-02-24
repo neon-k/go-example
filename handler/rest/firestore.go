@@ -17,7 +17,7 @@ import (
 // @router /api/v1/firestore [get]
 func Firestore(c *gin.Context) {
 	err := util.AddFirestore("test", map[string]interface{}{
-		"first": "ばかだねーーーーーーーお前",
+		"first": "example",
 		"last":  "Lovelace",
 		"born":  1815,
 	})
